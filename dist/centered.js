@@ -6,8 +6,8 @@ $('.slider').slick({
   arrows: true,
   initialSlide: 1,
   centerPadding: '0px',
-  prevArrow: $('.prev-arrow'),
-	nextArrow: $('.next-arrow'),
+  prevArrow: $('.article-prev'),
+  nextArrow: $('.article-next'),
   responsive: [
     {
       breakpoint: 768,
